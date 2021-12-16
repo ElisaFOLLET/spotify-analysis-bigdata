@@ -1,4 +1,4 @@
-# spotify-analysis-bigdata
+# spotify-analysis-datapipeline
 
 Building a data pipeline in AWS using :
 - AWS S3
